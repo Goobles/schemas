@@ -9,6 +9,11 @@
     "packageDirectories"
   ],
   "properties": {
+    "$schema": {
+      "title": "Schema"
+      "type": "string",
+      "description": "json schema url"
+    },
     "packageDirectories": {
       "title": "Package Directories",
       "type": "array",
